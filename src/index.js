@@ -21,7 +21,7 @@ const start = () => {
   
   setInterval(() => {
     getPriceData();
-  }, 60000);
+  }, 15000);
 };
 
 start();
