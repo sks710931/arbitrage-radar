@@ -1,11 +1,11 @@
 {
   "type": "service_account",
   "project_id": "arbitrage-finder",
-  "private_key_id": "e03e8d01029df0d49ee1bb723ff6401ca665cca4",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDJ43UyxDsxQG6i\n8i26BdymVR88bi2E9QcyetKxXsFsRkALHXk3cF1uyf+TlVvtuLHBWxdtC4pGZpB5\n3GDvZQQif1osg5AT8XXxqABGFkWUydHunLKcVYQr722esDx7FpFKeMtkmAmMPN2T\n7WkUi9mwMUv04hmQ7RW7WqclHfeYLH3c/MoGAGGbsSOFywKGEcyG/qyjwd9+37wc\nBsK8npi52A4vdeW1ipnLFMOX0rgAnnIhVp2xaRlWdH/KvWUs8wGE6vwyOLUUqxbi\nwuooVo+J+FFBk44gKjTCqsTiFZj8EBYD+H3tNS4leza7UEFIQU2M+r5Dn+pZbUYI\nT5lCgMpzAgMBAAECggEANPSvbLoRRrl+a8p3mRhpiM3CLEFAOmRlV2XlNzZCKSsC\nKIg6IAMe1u0wV19xphjws2W37tf8lLvZgMWAPbszCvN5zTxTQg/vnowxSjEUXlNT\n+DFtHlnGGhorGFlk++pvAOhPfZrtwjXC70bybbvDRZagtGLMTvoJXcQJHNDP/b+S\nczW0+4RkC+Nfaeg4/irJhRclSNMDEpuAde08g9z4vRiZrMMHpda7FOLD9THbI0S8\nTQ5mER+l7Ske3D9KsMyqIp2j5Y32KmhlJwAgPk2wyNPdAHEoQjKx+6DDmep1JRYw\n03DBin+4R3T8OvTtqHIQF7LNJfW2xj88VjyDMC95dQKBgQDvvLkVM6LWh9jgB69i\nOICp1BdzUGkJGvE0Mz8M0wtc4uUixm6iO+mSE0fxdDw8cCt2JOWYWyQ04452O3O8\nH6IZMrgq/Rduk1Dl7WdYnNYmyynLA4ceg/G+80CqfhmDqSLv46gArO8wMEy3WkqB\nRi7vwjSdgjiYvoDuX2eowKO0HQKBgQDXlXRNp4m92trA6I2zMfAuPAaaZjA4oXi8\nDfR2Nes8ds8T/ET6Ji0mT83wqSBt5D9+j9EQivfwABiLBlqhcsUDdwWt9n03Cryv\niLloEICnUEbJbieWpOkis23HKgv1C4O1MtqJsmqR6BZxvSRE9TOqCPMLWhPvbjt6\nGvNmY5QTzwKBgQDTQIP/kM7PKEoNr/f2H0ARZtl7PcIwydL+YqIOlPIQWcf8Cst2\nnkDF/cOJmxlxUI6bvwuqY7XV/SeOO/lSLrXSaoUrLHa3c4z372kABsQWzzP2txcb\n5rzhvMyg8BlfkW094mgqoDjtR8JyV1gL7mJx17oxiYyB3G0UoHFhnM8kaQKBgDwg\nHK3DujDPJw+CTHLbzKa4awcI1Q4WSrv4EGQfqZnVcO+b/gjeON1kiIVERh0f+W1s\n4twARiIThMTRYtmATt4mhdj80/NT9Ufnk/4oDBmd1AA9zqC/IZ5h+I4BdhBDw9n3\ncufQcNR8rDXQkJsC4APeNxrFZqXyUng9qAC4aQYVAoGAIUOlq8/RhbbYshUwlrHY\nKkdLs5El/5UGIl5l5IKxnQMxFlIQNzk5IW3am+WLSvIS/MpHUVgJraFRb4dW0BUH\n7bswa5NaZsgjy8z5e6M9ngtlpAUN5thHWGgAPYROV6KWK82cZ/51H8Nst5U5hVhj\ny2VljZ9bHhO8Msp1RUntUYk=\n-----END PRIVATE KEY-----\n",
-  "client_email": "arbitrage-finder@appspot.gserviceaccount.com",
-  "client_id": "109488796290071631204",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "private_key_id": "PRIVATE KEY ID",
+  "private_key": "PRIVATE KEY",
+  "client_email": "CLIENT EMAIL",
+  "client_id": "CLIENT ID",
+  "auth_uri": "AUTH URI",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
   "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/arbitrage-finder%40appspot.gserviceaccount.com"
